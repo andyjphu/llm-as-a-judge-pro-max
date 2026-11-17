@@ -1,2 +1,3 @@
 # llm-as-a-judge-pro-max
-pls let this be a normal field trip
+
+[Control judge prompt](scenarios/eval-awareness/JUDGE_SYSTEM_PROMPT.md) is the frozen original Sophia evaluation-awareness system message.
